@@ -2,4 +2,4 @@
 - 👀 I’m an independent web developer in Bismarck, North Dakota.
 - 👀 I've been building web2.0 apps with custom HTML, CSS, JavaScript, PHP and MySQL since 2017.
 - 🌱 I'm currently learning Solidity, node.js and Ethereum Blockchain Development.
-- 📫 You can reach me at john.gimbel@hotmail.com
+- 📫 You can reach me at power-your-web@outlook.com
